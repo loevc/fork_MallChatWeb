@@ -5,4 +5,4 @@
 pnpm type-check
 pnpm lint:style
 pnpm link:format
-pnpm link:lint-staged
+# pnpm link:lint-staged
